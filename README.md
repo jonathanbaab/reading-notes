@@ -1,6 +1,4 @@
 # Jonathan Baab
-## Designer/Coder
-
 ## Class Notes
 
 # Class Review Table of Contents
