@@ -1,6 +1,8 @@
 
 ## Class 02
 
+VSCODE Test
+
 Using Terminal to install Homebrew, node, VS Code
 
 Important to learn terminal commands
