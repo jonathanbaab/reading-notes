@@ -14,6 +14,7 @@
 
 - [Reading 01](Reading_Class_01.md)
 - [Reading 02 - Coder's Computer](reading02.md)
+- [Reading 03 - Git](reading03.md)
 
 
 
