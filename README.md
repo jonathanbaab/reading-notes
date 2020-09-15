@@ -1,6 +1,7 @@
 ## Jonathan Baab 
 Codefellows 102 Class Notes
 
+
 ## Class Review Table of Contents
 
 - [Class 01 Growth Mindset](Class_01_GrowthMindset.md)
