@@ -3,13 +3,15 @@
 
 ##Class Notes
 
-[Class 01](Introduction.md)
+#Reading Table of Contents
 
-#Reading 
+- [Class 01](Class_01_GrowthMindset.md)
 
 
 
-#Review
+
+
+#Review Table of Contents
 
 
 
