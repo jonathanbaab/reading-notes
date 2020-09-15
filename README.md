@@ -8,10 +8,9 @@
 - [Class 01](Class_01_GrowthMindset.md)
 
 
-
-
-
 #Review Table of Contents
+
+- [Class 02](Reading_Class_01.md)
 
 
 
