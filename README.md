@@ -6,8 +6,8 @@
 # Class Review Table of Contents
 
 - [Class 01 Growth Mindset](Class_01_GrowthMindset.md)
-- [Class 02]
-- [Class 03]
+- [Class 02 - Coder's Computer](class02.md)
+- [Class 03 - Git](class03.md)
 
 
 # Reading Review Table of Contents
