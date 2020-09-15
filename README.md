@@ -1,5 +1,5 @@
-# Jonathan Baab
-**Class Notes**
+## Jonathan Baab
+## Class Notes
 
 ## Class Review Table of Contents
 
