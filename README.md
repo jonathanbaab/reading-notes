@@ -3,14 +3,17 @@
 
 ## Class Notes
 
-# Reading Table of Contents
+# Class Review Table of Contents
 
-- [Class 01](Class_01_GrowthMindset.md)
+- [Class 01 Growth Mindset](Class_01_GrowthMindset.md)
+- [Class 02]
+- [Class 03]
 
 
-# Review Table of Contents
+# Reading Review Table of Contents
 
-- [Class 02](Reading_Class_01.md)
+- [Reading 01](Reading_Class_01.md)
+- [Reading 02 - Coder's Computer](reading02.md)
 
 
 
