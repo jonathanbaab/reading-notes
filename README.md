@@ -1,5 +1,5 @@
-## Jonathan Baab
-## Class Notes
+## Jonathan Baab 
+Codefellows 102 Class Notes
 
 ## Class Review Table of Contents
 
