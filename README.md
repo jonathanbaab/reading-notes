@@ -7,6 +7,7 @@ Codefellows 102 Class Notes
 - [Class 01 Growth Mindset](Class_01_GrowthMindset.md)
 - [Class 02 - Coder's Computer](class02.md)
 - [Class 03 - Git](class03.md)
+- [Class 04 - Design+Html](class04.md)
 
 
 ## Reading Review Table of Contents
@@ -14,6 +15,7 @@ Codefellows 102 Class Notes
 - [Reading 01](Reading_Class_01.md)
 - [Reading 02 - Coder's Computer](reading02.md)
 - [Reading 03 - Git](reading03.md)
+- [Reading 04 - Design+HTML](reading04.md)
 
 
 
