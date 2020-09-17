@@ -7,7 +7,11 @@ Codefellows 102 Class Notes
 - [Class 01 Growth Mindset](Class_01_GrowthMindset.md)
 - [Class 02 - Coder's Computer](class02.md)
 - [Class 03 - Git](class03.md)
+<<<<<<< HEAD
 - [Class 04 - Design+Html](class04.md)
+=======
+- [Class 04 - HTML](class04.md)
+>>>>>>> 3e88a064ebd94aedbde8abda57bca4175d4176e9
 
 
 ## Reading Review Table of Contents
