@@ -19,6 +19,8 @@ Codefellows 102 Class Notes
 - [Reading 05 - CSS Intro](reading05.md)
 - [Reading 06A - Java intro](reading06a.md)
 - [Reading 06B - Computers, man](reading06b.md)
+- [Reading 07 - Basic Scripting](reading07.md)
+- [Reading 06B - Operators](reading08.md)
 
 
 
